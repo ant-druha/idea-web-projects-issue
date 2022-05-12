@@ -1,0 +1,17 @@
+{
+  "name": "intellij-test",
+  "version": "1.0.0",
+  "description": "",
+  "license": "Commercial",
+  "main": "./src/module",
+  "files":   [
+    "src/"
+  ],
+  "devDependencies":   {
+    "@types/node": "13.13.52",
+    "ts-mockito": "2.6.1"
+  },
+  "dependencies": {"@bci-trinity/rb-commons": "snapshot"},
+  "scripts":   {
+  }
+}
